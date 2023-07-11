@@ -51,6 +51,7 @@
         },
         "13a66bf7-5af4-462c-8c6b-e529595d885f": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"rbrFastBundlePage\" bundle-ids=\"0f2f7d64-3596-4dc5-aa81-918d83611b1d\"><\/div>"
           }
