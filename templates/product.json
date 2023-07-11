@@ -48,6 +48,12 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "13a66bf7-5af4-462c-8c6b-e529595d885f": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"rbrFastBundlePage\" bundle-ids=\"0f2f7d64-3596-4dc5-aa81-918d83611b1d\"><\/div>"
+          }
         }
       },
       "block_order": [
@@ -58,7 +64,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "13a66bf7-5af4-462c-8c6b-e529595d885f"
       ],
       "settings": {
         "enable_sticky_info": true,
